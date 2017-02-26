@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gndx/GResume/issues"
   },
-  "homepage": "https://github.com/gndx/GResume#readme"
+  "homepage": "https://github.com/gndx/GResume#readme",
+  "devDependencies": {
+    "nib": "^1.1.2"
+  }
 }
