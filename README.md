@@ -1,4 +1,5 @@
 # GResume
 Free HTML Professional Resume CV Template
 
-![GResume](http://s3.amazonaws.com/citydrive/img/gndx-gresume.png)
+*  Click here to use the [Live Demo](http://dev.gndx.co/gresume/)
+
