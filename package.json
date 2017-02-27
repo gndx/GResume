@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/gndx/GResume#readme",
   "devDependencies": {
-    "nib": "^1.1.2"
+    "nib": "^1.1.2",
+    "stylus": "^0.54.5"
   }
 }
