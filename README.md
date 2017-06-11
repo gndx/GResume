@@ -4,7 +4,7 @@ GResume is a HTML free template to create a minimalist professional resume. Made
 
 ![gresume](https://raw.githubusercontent.com/gndx/GResume/master/screenshot.png)
 
-*  Click here to use the [Live Demo](http://dev.gndx.co/gresume/)
+*  Click here to use the [Live Demo](https://dev.gndx.co/gresume-react/)
 
 ### Requiere Nib and Stylus
 Nib is a small and powerful library for the Stylus CSS language, providing robust cross-browser CSS3 mixins to make your life as a designer easier.
